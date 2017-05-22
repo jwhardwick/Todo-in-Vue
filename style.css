@@ -1,0 +1,58 @@
+body {
+    padding: 50px;
+    align-items: center;
+    font: 14px "Inconsolata", Helvetica, Arial, sans-serif;
+    
+}
+
+
+a {
+    color: #00B7FF;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 10px;
+}
+
+.submit {
+    background-color: #eeeeee;
+    border: 1px solid black;
+    text-align: center;
+
+    padding-bottom: 15px;
+}
+
+.container {
+    margin: auto;
+    max-width: 400px;
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 80%;
+}
+
+.incomplete {
+    background-color: #eeeeee;
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+    margin-top: 15px;
+    float: left;
+}
+
+.complete {
+    max-width: 180px;
+    background-color: #eeeeee;
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+    width: 48%;
+    margin-top: 15px;
+
+
+    float: right;
+}
+
+.header {
+    text-align: center;
+}
